@@ -15,8 +15,8 @@ An AI-powered app to generate short stories based on selected genre, character n
 - Prompt Engineering
 
 ## Getting Started
-pip install -r requirements.txt
-streamlit run app.py
+- pip install -r requirements.txt
+- streamlit run app.py
 
 
 ## Author
